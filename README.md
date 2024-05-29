@@ -28,7 +28,7 @@ Using nodejs(typescript or javascript), astandard architecture, modular design a
   - **Skills Tested:** Understanding of Cardano, functional programming,
     ability to learn and apply new development tools, and smart contract
     development.
-  - **[Read More About Task 1](assignment1/README.md)**
+ 
 
 ### Task 2: Extend Something Real
 **Objective:** Modify Node.js to support ESM loaders within workers, as
@@ -41,7 +41,7 @@ per the feature request in [Node.js issue
   - **Skills Tested:** Deep understanding of JavaScript and Node.js
     internals, ability to interact with and contribute to open-source
     projects.
-  - **[Read More About Task 3](assignment3/README.md)**
+ 
 
 ## Submission Guidelines
 
