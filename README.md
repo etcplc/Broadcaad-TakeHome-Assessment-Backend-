@@ -1,4 +1,4 @@
-# Join the Braodcaad Team: Developer Challenge
+# Join the Broadcaad Team: Developer Challenge
 
 ## Overview
 
