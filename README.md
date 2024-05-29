@@ -72,7 +72,7 @@ per the feature request in [Node.js issue
 
 ## Note to Candidates
 
-We appreciate your interest in Braodcaad and your willingness to participate
+We appreciate your interest in Broadcaad and your willingness to participate
 in this challenge. This is your opportunity to shine and show us what
 makes you a great fit for our team. We look forward to reviewing your
 innovative solutions and learning more about your unique approach to
