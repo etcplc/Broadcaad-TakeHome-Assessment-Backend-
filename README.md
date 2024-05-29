@@ -19,9 +19,10 @@ understand your expertise and fit for our team.
 
 ### Task 1: Create Something New
 Using nodejs(typescript or javascript), astandard architecture, modular design and optimised queries, create a mini streaming application
+
 **Objective:** 
-  - **Goal:** There should be four differnet apis, 
-    * LOGIN USER(seed a user in the db),
+  - **Goal:** There should be four different endpoints hosted in a free cloud environment(or local env for presentation, 
+    * LOGIN USER(seed a user in the db(mongodb), so no need for signup endpoint),
     * UPLOAD MEDIA -use free servcies like cloudinary etc(using AWS or any other cloud platform is optional and not requiored)
     * FETCH MEDIA(this should be a streaming api)
     * SAVE USER HISTORY(this should save the user current viewng status and should be checked when the user resumes viewing)
