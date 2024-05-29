@@ -21,10 +21,10 @@ understand your expertise and fit for our team.
 Using nodejs(typescript or javascript), astandard architecture, modular design and optimised queries, create a mini streaming application
 **Objective:** 
   - **Goal:** There should be four differnet apis, 
-    # LOGIN USER(seed a user in the db),
-    # UPLOAD MEDIA -use free servcies like cloudinary etc(using AWS or any other cloud platform is optional and not requiored)
-    # FETCH MEDIA(this should be a streaming api)
-    # SAVE USER HOSTORY(this should save the user current viewng status and should be checked when the user resumes viewing)
+    * LOGIN USER(seed a user in the db),
+    * UPLOAD MEDIA -use free servcies like cloudinary etc(using AWS or any other cloud platform is optional and not requiored)
+    * FETCH MEDIA(this should be a streaming api)
+    * SAVE USER HISTORY(this should save the user current viewng status and should be checked when the user resumes viewing)
   - **Skills Tested:** Understanding of Cardano, functional programming,
     ability to learn and apply new development tools, and smart contract
     development.
