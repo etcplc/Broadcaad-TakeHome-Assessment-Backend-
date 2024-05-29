@@ -50,7 +50,7 @@ per the feature request in [Node.js issue
     of your ability.
 2.  **Prepare Your Submission:** Ensure your code is clean,
     well-documented, and includes any necessary tests.
-3.  **Submit Your Work:** Send your completed project to `info@broadcaad.com && ogagaadjaro@gamil.com`.
+3.  **Submit Your Work:** Send your completed project to `info@broadcaad.com && ogagaadjaro@gmail.com`.
     Please include a link to a GitHub repository containing your work.
     The repository should contain:
       - All source code files.
